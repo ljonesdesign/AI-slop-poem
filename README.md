@@ -1,5 +1,4 @@
-# AI-slop-poem
-AI Slop poem from ChatGPT
+# AI Slop poem from ChatGPT
 
 *My prompt engineering process:*
 
