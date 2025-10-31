@@ -1,5 +1,5 @@
 # Slopgorithm: A Halloween Ballad of the Bot
-
+```
 ’Twas midnify when the slop began,
 With beeping bleeps and clatterclan.
 The prompts were fed, the circuits churned
@@ -40,3 +40,4 @@ And question all that slouches truth.
 For deep within that AI stream...
 There lives a joke…
 that eats your dream.
+```
