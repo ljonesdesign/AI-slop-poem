@@ -29,10 +29,10 @@
 >Absolutely. Here's the complete poem, blending all the elements you've asked for:
 
 >* Dark absurdism
-* Jabberwocky-style nonsense
-* Sinister humor
-* A verse ribbing Sam Altman
-* A cohesive, eerie narrative
+>* Jabberwocky-style nonsense
+>* Sinister humor
+>* A verse ribbing Sam Altman
+>* A cohesive, eerie narrative
 
 *Me thinking: Did not think that would result in a fully different version! Pretty good! I need to rewrite three of the verses though.*
 
